@@ -8,7 +8,6 @@
 /public/build
 /public/packages
 /resources/assets/bower
-/storage
 /bootstrap/compiled.php
 /bootstrap/environment.php
 /node_modules
